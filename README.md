@@ -22,9 +22,6 @@
 
 ![PIN](https://github.com/yanboishere/PinTravel/assets/76860915/5bbc70f3-0930-486d-a990-54377293fe50)
 
-
-# PinTravel
-DePin+Cultural tourism ecology｜
-
+DePin+Cultural tourism ecology
 
  
