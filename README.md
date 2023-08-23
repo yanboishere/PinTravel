@@ -54,3 +54,7 @@ DePin+Cultural tourism ecology
 `DePIN`意为分布式物理基础设施网络，根据MESSARI的调研显示，主流的`DePIN`赛道可以分为四个部分，其中`物理资源网络PRN`是目前参与企业较多的赛道。即通过大规模的分布式硬件基础设施，提供原本专业团队才能够提供的服务。
 
 从`DePIN`赛道的角度分析，游客手机的相机可以视为分布式物理基础设施网络的节点，而游客利用手机拍摄的照片以及其生成的`SBT`可以作为独属于每个人的旅行记忆NFT。景区通过空投发放代币、优惠券等方式回馈用户对网络作出的贡献。`PinTravel`的设想是景区通过代币等虚拟资产来获得现实世界中有形的资产，比如景区的宣传照片与视频。而游客通过利用智能手机不仅可以获得独属于自己的旅行记忆，还能够通过与`DePIN`网络进行交互来获得代币、优惠券等奖励，形成良性循环。
+
+## Contributer
+
+[![contrib graph](https://contrib.rocks/image?repo=yanboishere/PinTravel)](https://github.com/yanboishere/PinTravel/graphs/contributors)
