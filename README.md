@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-  一句话Flag
+  **Depin with Your Travel.**
 </h1>
 
 <h2 align="center">
