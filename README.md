@@ -6,9 +6,9 @@
   🏞️
 </h2>
 
-<h1 align="center">
+<h2 align="center">
   Pin your Travel on chain!
-</h1>
+</h2>
 
 <h2 align="center">
   Thanks to DePIN, your journey will be your personal assets permanently!
