@@ -75,6 +75,7 @@ DePin+Cultural tourism ecology
 
 ## Contributer
 
+
 [![contrib graph](https://contrib.rocks/image?repo=yanboishere/PinTravel）](https://github.com/yanboishere/PinTravel/graphs/contributors)
 
 
@@ -83,12 +84,6 @@ DePin+Cultural tourism ecology
   Yanbo
 </h3>
 
-
-<h3 align="center">
-  
-  ![4931692873716_ pic](https://github.com/yanboishere/PinTravel/assets/76860915/0cbbc5fc-c640-424b-9d63-1b360beaed8a)
-
-</h3>
 
 
 <h3 align="center">
