@@ -11,7 +11,7 @@
 </h1>
 
 <h2 align="center">
-  Use DePin to link tourists' travel notes in scenic spots.
+  Link tourists' travel notes in scenic spots with DePin.
 </h2>
 
 
