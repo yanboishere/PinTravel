@@ -63,6 +63,7 @@ DePin+Cultural tourism ecology
 
 
 
+
 ## Feature
 
 - PinTravel 向所有拥有手机终端设备的用户开放使用
@@ -110,6 +111,8 @@ DePin+Cultural tourism ecology
 `useExchange` | 交换本次旅行NFT，获取优惠券
 `useShare`| 分享本次旅行NFT，仅允许共享转发
 `usePinAgain` | 奖励多刷游客
+
+
 ## Contributer
 
 <h3 align="center">
@@ -123,6 +126,12 @@ DePin+Cultural tourism ecology
 <h3 align="center">
   nuttt
 </h3>
+
+
+
+> "Global tourism is on track to return to pre-pandemic levels by the end of year. By investing in people and projects that make a difference, we can deliver on the sector’s potential to drive growth and opportunity for all."
+
+> Mr. Zurab Pololikashvili - Secretary-General of the World Tourism Organization (UNWTO)
 
 
 
