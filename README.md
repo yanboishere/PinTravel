@@ -110,7 +110,7 @@ DePin+Cultural tourism ecology
 `useSell` | 出售本次旅行NFT，获取代币奖励
 `useExchange` | 交换本次旅行NFT，获取优惠券
 `useShare`| 分享本次旅行NFT，仅允许共享转发
-`usePinAgain` | 奖励多刷游客
+`usePinAgain` | 奖励多次使用PinTravel制作NFT游客
 
 
 ## Contributer
