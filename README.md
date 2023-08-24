@@ -35,7 +35,11 @@ DePin+Cultural tourism ecology
 ---
 ## Data
 
+<h2 align="center">
+
 <img width="597" alt="截屏2023-08-24 下午11 48 08" src="https://github.com/yanboishere/PinTravel/assets/76860915/0c0edfe7-e996-4fe8-9fe8-9a06804124fa">
+
+</h2>
 
 International tourist arrivals:Percentage of 2019 levels recovered in Q1 2023 (%)
 
