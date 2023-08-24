@@ -62,24 +62,31 @@ DePin+Cultural tourism ecology
 从`DePIN`赛道的角度分析，游客手机的相机可以视为分布式物理基础设施网络的节点，而游客利用手机拍摄的照片以及其生成的`SBT`可以作为独属于每个人的旅行记忆NFT。景区通过空投发放代币、优惠券等方式回馈用户对网络作出的贡献。`PinTravel`的设想是景区通过代币等虚拟资产来获得现实世界中有形的资产，比如景区的宣传照片与视频。而游客通过利用智能手机不仅可以获得独属于自己的旅行记忆，还能够通过与`DePIN`网络进行交互来获得代币、优惠券等奖励，形成良性循环。
 
 ## PinTravel API
-本项目在lens基础上二次迭代了一系列接口，具体如下
-- 用户在景区固定的位置扫描二维码，并同时可以记录当前位置，上传拍摄的照片lbs
-  > `usePinQRCode`, `usePinLocation`, `usePinPhoto`
+- 用户在景区固定的位置扫描二维码，并同时可以记录当前位置，上传拍摄的照片
 - 完成景区游览之后，可以生成本次浏览的记录
-  > `usePinRoute`, `usePinTravel`, `usePinAlbum`
 - 旅程记录作为NFT，旅途的照片，打卡点都可以存在此NFT账户名下 
-- 旅游景区可以在链上与旅客的NFT发生买卖行为，旅客可以获得代币，优惠券等奖励，进而鼓励其二刷，三刷
-  > `useExchange`, `useShare`, `useSell`(用来区分是换代币，还是优惠券，还只是单纯的允许共享转发)
-
-  > `usePinAgain` 奖励多刷用户
+- 旅游景区可以在链上与旅客的NFT发生买卖行为，旅客可以获得代币，优惠券等奖励，进而鼓励二刷，三刷
 - 旅游景区利用收集到的海量旅客nft资产，可以进行
   - 利用照片做景区采景宣传工作
   - 利用旅客的旅游路线进行推荐路线规划
-  
 - 可能应用的相关措施
   - 景区通过截图等方式窃取nft照片
   - 游客在景区内部的不文明行为
 
+## PinTravel API
+
+| API | 功能 | 
+| ---- | ---- |
+`usePinQRCode` | 手机扫码
+`usePinLocation` | 打卡用户坐标
+`usePinPhoto` | 上传图片
+`usePinRoute` | 完成游览之后链上生成游览路线
+`usePinAlbum` | 完成游览之后生成游览相册
+`usePinTravel`| 完成游览之后利用游览路线、游览相册生成旅行NFT
+`useSell` | 出售本次旅行NFT，获取代币奖励
+`useExchange` | 交换本次旅行NFT，获取优惠券
+`useShare`| 分享本次旅行NFT，仅允许共享转发
+`usePinAgain` | 奖励多刷游客
 ## Contributer
 
 <h3 align="center">
