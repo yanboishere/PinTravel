@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-  **Depin with Your Travel.**
+  Depin with Your Travel.
 </h1>
 
 <h2 align="center">
